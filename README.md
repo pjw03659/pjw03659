@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=pjw03659)](https://github.com/pjw03659)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjw03659)](https://github.com/pjw03659/github-readme-stats)
+
+
 <!--
 **pjw03659/pjw03659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
